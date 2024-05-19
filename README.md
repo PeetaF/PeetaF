@@ -40,3 +40,5 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PeetaF/PeetaF/output/github-contribution-grid-snake.svg">
     </picture>
   </div>
+  <br><br><br><br>
+  Seja bem-vindo(a)! 😄ㅤ|ㅤWelcome! 😄
